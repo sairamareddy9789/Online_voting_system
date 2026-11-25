@@ -1,4 +1,14 @@
-# React + Vite
+# Online Voting System
+
+A React + Vite frontend for an online voting system.
+
+## GitHub Pages
+
+The GitHub Actions workflow deploys the app when changes are pushed to `main`.
+After the first successful deployment, the site is available at
+https://sairamareddy9789.github.io/Online_voting_system/.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
